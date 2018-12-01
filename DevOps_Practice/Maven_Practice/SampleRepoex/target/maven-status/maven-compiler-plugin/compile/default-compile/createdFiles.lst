@@ -1,0 +1,9 @@
+com\examples\example1\model\Member.class
+com\examples\example1\service\MemberRegistration.class
+com\examples\example1\rest\JaxRsActivator.class
+com\examples\example1\data\MemberRepository.class
+com\examples\example1\rest\MemberResourceRESTService.class
+com\examples\example1\util\Resources.class
+com\examples\example1\controller\MemberController.class
+com\examples\example1\data\MemberListProducer.class
+com\examples\example1\model\Member_.class
